@@ -17,5 +17,8 @@
     "email": "marshall@jacob.dev",
     "url": "https://jacob.dev"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT"
 }
