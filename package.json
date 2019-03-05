@@ -1,6 +1,6 @@
 {
   "name": "@jmshal/bugsnag-js-cloudflare-workers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An un-official Bugsnag notifier for Cloudflare Workers.",
   "dependencies": {
     "@bugsnag/core": "^6.0.0"
