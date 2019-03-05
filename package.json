@@ -1,0 +1,21 @@
+{
+  "name": "@jmshal/bugsnag-js-cloudflare-workers",
+  "version": "1.0.0",
+  "description": "An un-official Bugsnag notifier for Cloudflare Workers.",
+  "dependencies": {
+    "@bugsnag/core": "^6.0.0"
+  },
+  "main": "notifier.js",
+  "keywords": [
+    "bugsnag",
+    "bugsnag-js",
+    "cloudflare",
+    "service-workers"
+  ],
+  "author": {
+    "name": "Jacob Marshall",
+    "email": "marshall@jacob.dev",
+    "url": "https://jacob.dev"
+  },
+  "license": "MIT"
+}
